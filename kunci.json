@@ -1,0 +1,1518 @@
+{
+    "ACES_2019_I": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 1,
+        "year": "2019",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "1,881,887,483,874",
+        "ebit": "293,952,646,905",
+        "net_profit": "239,335,166,716",
+        "cash": "780,901,293,238",
+        "inventories": "2,704,372,005,999",
+        "total_current_liabilities": "507,435,922,373",
+        "total_non_current_liabilities": "467,735,380,024",
+        "total_equity": "4,474,806,212,645",
+        "gross_profit": "891,372,685,769",
+        "total_assets": "5,449,977,515,042",
+        "total_liabilities": "975,171,302,397",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2019_II": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 2,
+        "year": "2019",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "3,961,738,170,445",
+        "ebit": "591,902,354,184",
+        "net_profit": "479,889,247,278",
+        "cash": "535,969,026,508",
+        "inventories": "2,584,892,580,087",
+        "total_current_liabilities": "476,677,377,216",
+        "total_non_current_liabilities": "493,982,240,720",
+        "total_equity": "4,231,798,034,382",
+        "gross_profit": "1,867,341,383,013",
+        "total_assets": "5,202,457,652,318",
+        "total_liabilities": "970,659,617,936",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2019_III": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 3,
+        "year": "2019",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "5,974,213,686,938",
+        "ebit": "904,578,159,441",
+        "net_profit": "732,718,327,753",
+        "cash": "808,651,956,083",
+        "inventories": "2,766,889,004,140",
+        "total_current_liabilities": "482,736,924,811",
+        "total_non_current_liabilities": "520,168,327,575",
+        "total_equity": "4,484,627,114,857",
+        "gross_profit": "2,834,869,038,394",
+        "total_assets": "5,487,532,367,243",
+        "total_liabilities": "1,002,905,252,386",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2019_IV": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 4,
+        "year": "2019",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "8,142,717,045,655",
+        "ebit": "1,280,008,338,244",
+        "net_profit": "1,036,610,556,510",
+        "cash": "1,255,018,477,387",
+        "inventories": "2,652,702,550,446",
+        "total_assets": "5,920,169,803,449",
+        "total_current_liabilities": "567,618,484,153",
+        "total_non_current_liabilities": "610,057,043,432",
+        "total_liabilities": "1,177,675,527,585",
+        "total_equity": "4,742,494,275,864",
+        "gross_profit": "3,887,090,318,844",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                7
+            ],
+            "Posisi Keuangan": [
+                6
+            ],
+            "Jumlah saham": [
+                11
+            ]
+        }
+    },
+    "ACES_2020_I": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 1,
+        "year": "2020",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "1,966,961,763,942",
+        "ebit": "296,091,843,919",
+        "net_profit": "243,740,561,819",
+        "cash": "1,545,978,086,354",
+        "inventories": "2,520,710,153,476",
+        "gross_profit": "975,376,082,773",
+        "total_assets": "6,989,488,929,028",
+        "total_equity": "4,896,131,231,519",
+        "total_current_liabilities": "786,920,157,675",
+        "total_non_current_liabilities": "1,306,437,539,834",
+        "total_liabilities": "2,093,357,697,509",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2020_II": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 2,
+        "year": "2020",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "3,651,548,762,902",
+        "ebit": "431,716,726,063",
+        "net_profit": "353,630,405,915",
+        "cash": "1,684,102,141,594",
+        "inventories": "2,767,971,369,789",
+        "gross_profit": "1,803,883,081,270",
+        "total_assets": "7,094,837,657,399",
+        "total_equity": "4,996,280,405,675",
+        "total_current_liabilities": "727,142,120,167",
+        "total_non_current_liabilities": "1,371,415,131,557",
+        "total_liabilities": "2,098,557,251,724",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2020_III": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 3,
+        "year": "2020",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "5,480,391,920,645",
+        "ebit": "634,852,170,169",
+        "cash": "1,776,088,047,475",
+        "inventories": "2,631,227,288,199",
+        "total_current_liabilities": "706,939,242,866",
+        "total_non_current_liabilities": "1,384,290,955,676",
+        "total_equity": "4,856,874,238,770",
+        "gross_profit": "2,705,607,948,676",
+        "net_profit": "523,510,483,190",
+        "total_assets": "6,948,104,437,312",
+        "total_liabilities": "2,091,230,198,542",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2020_IV": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 4,
+        "year": "2020",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "7,412,766,872,302",
+        "ebit": "923,335,768,686",
+        "net_profit": "731,310,571,351",
+        "cash": "2,219,784,801,023",
+        "inventories": "2,453,226,712,334",
+        "total_assets": "7,247,063,894,294",
+        "total_current_liabilities": "844,928,054,206",
+        "total_non_current_liabilities": "1,179,893,285,690",
+        "total_liabilities": "2,024,821,339,896",
+        "total_equity": "5,222,242,554,398",
+        "gross_profit": "3,659,181,805,722",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                7
+            ],
+            "Posisi Keuangan": [
+                6
+            ],
+            "Jumlah saham": [
+                11
+            ]
+        }
+    },
+    "ACES_2021_I": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 1,
+        "year": "2021",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "1,681,659,079,698",
+        "ebit": "198,342,119,700",
+        "net_profit": "163,451,618,901",
+        "cash": "2,399,248,720,796",
+        "inventories": "2,539,148,541,932",
+        "total_non_current_liabilities": "1,329,496,907,628",
+        "total_liabilities": "2,130,176,779,056",
+        "total_equity": "5,385,694,173,299",
+        "gross_profit": "820,006,440,698",
+        "total_assets": "7,515,870,952,355",
+        "total_current_liabilities": "800,679,871,428",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2021_II": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 2,
+        "year": "2021",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "3,395,529,564,918",
+        "ebit": "340,303,513,773",
+        "net_profit": "279,961,034,705",
+        "cash": "2,369,656,280,337",
+        "inventories": "2,618,738,595,097",
+        "gross_profit": "1,651,328,667,587",
+        "total_assets": "7,425,519,593,492",
+        "total_equity": "4,951,783,060,248",
+        "total_current_liabilities": "1,119,016,355,300",
+        "total_non_current_liabilities": "1,354,720,177,944",
+        "total_liabilities": "2,473,736,533,244",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2021_III": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 3,
+        "year": "2021",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "4,694,129,014,098",
+        "ebit": " 391,941,874,851",
+        "net_profit": "323,811,133,930",
+        "cash": "1,848,281,077,364",
+        "inventories": "2,710,072,587,011",
+        "gross_profit": "2,305,492,006,204",
+        "total_assets": "6,925,598,830,757",
+        "total_equity": "4,995,633,159,473",
+        "total_current_liabilities": "544,090,113,354",
+        "total_non_current_liabilities": "1,385,875,557,930",
+        "total_liabilities": "1,929,965,671,284",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2021_IV": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 4,
+        "year": "2021",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "6,543,362,698,900",
+        "ebit": "858,919,125,667",
+        "net_profit": "718,802,339,551",
+        "cash": "2,543,833,653,523",
+        "inventories": "2,367,948,502,132",
+        "total_assets": "7,189,816,371,434",
+        "total_current_liabilities": "722,537,447,543",
+        "total_non_current_liabilities": "954,520,296,117",
+        "total_liabilities": "1,677,057,743,660",
+        "total_equity": "5,512,758,627,774",
+        "gross_profit": "3,212,648,831,788",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                7
+            ],
+            "Posisi Keuangan": [
+                6
+            ],
+            "Jumlah saham": [
+                11
+            ]
+        }
+    },
+    "ACES_2022_I": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 1,
+        "year": "2022",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "1,626,507,283,738",
+        "ebit": "188,127,592,836",
+        "cash": "2,689,689,440,584",
+        "inventories": "2,308,471,277,699",
+        "total_non_current_liabilities": "1,018,141,765,535",
+        "total_equity": "5,670,931,537,585",
+        "gross_profit": "785,275,045,547",
+        "net_profit": "156,172,909,811",
+        "total_assets": "7,312,946,165,989",
+        "total_current_liabilities": "623,872,862,869",
+        "total_liabilities": "1,642,014,628,404",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2022_II": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 2,
+        "year": "2022",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "3,307,857,283,762",
+        "ebit": "295,504,554,240",
+        "net_profit": "246,141,505,049",
+        "cash": "2,475,946,926,498",
+        "inventories": "2,507,959,583,955",
+        "total_non_current_liabilities": "1,050,591,170,195",
+        "total_equity": "5,408,391,308,900",
+        "gross_profit": "1,594,805,921,641",
+        "total_assets": "7,378,123,484,979",
+        "total_current_liabilities": "919,141,005,884",
+        "total_liabilities": "1,969,732,176,079",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2022_III": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 3,
+        "year": "2022",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "4,895,089,343,246",
+        "ebit": "428,163,401,207",
+        "net_profit": "355,509,442,980",
+        "cash": "1,845,458,782,503",
+        "inventories": "2,824,752,751,237",
+        "total_non_current_liabilities": "1,091,838,232,816",
+        "total_equity": "5,517,759,246,831",
+        "gross_profit": "2,364,654,503,552",
+        "total_assets": "7,120,123,032,174",
+        "total_current_liabilities": "510,525,552,527",
+        "total_liabilities": "1,602,363,785,343",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                4
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                7
+            ]
+        }
+    },
+    "ACES_2022_IV": {
+        "company_name": "PT ACE HARDWARE INDONESIA Tbk",
+        "quarter": 4,
+        "year": "2022",
+        "unit": "Dalam Rupiah",
+        "net_revenue": "6.762.803.342.146",
+        "ebit": "820.831.199.512",
+        "net_profit": "673.646.864.480",
+        "cash": "2,133,399,081,620",
+        "inventories": "2,810,769,398,502",
+        "total_non_current_liabilities": "645,497,214,514",
+        "total_equity": "5,933,988,630,611",
+        "gross_profit": "3.267.952.778.368",
+        "total_assets": "7,249,254,612,049",
+        "total_current_liabilities": "669,768,766,924",
+        "total_liabilities": "1,315,265,981,438",
+        "number_of_shares": "515,000,000 saham",
+        "pages": {
+            "Laba Rugi": [
+                11
+            ],
+            "Posisi Keuangan": [
+                10
+            ],
+            "Jumlah saham": [
+                15
+            ]
+        }
+    },
+    "INDF_2019_I": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "quarter": 1,
+        "year": "2019",
+        "unit": "dalam Jutaan Rupiah",
+        "company_name": "PT INDOFOOD SUKSES MAKMUR Tbk",
+        "inventories": "12.622.267",
+        "cash": "2,4,33,34,37",
+        "gross_profit": "5.797.472",
+        "net_revenue": "19.169.840",
+        "ebit": "2.340.564",
+        "net_profit": "1.634.302",
+        "total_assets": "98.091.381",
+        "total_equity": "51.800.975",
+        "total_current_liabilities": "30.851.929",
+        "total_non_current_liabilities": "15.438.477",
+        "total_liabilities": "46.290.406",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2019_II": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 2,
+        "year": "2019",
+        "unit": "dalam Jutaan Rupiah",
+        "inventories": "11.664.994",
+        "cash": "9.533.244",
+        "total_current_liabilities": "29.845.158",
+        "gross_profit": "11.360.971 ",
+        "net_revenue": "38.609.234",
+        "ebit": "4.235.741",
+        "net_profit": "2.936.027",
+        "total_assets": "97.367.672",
+        "total_equity": "51.248.190",
+        "total_non_current_liabilities": "16.274.324",
+        "total_liabilities": "46.119.482",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2019_III": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 3,
+        "year": "2019",
+        "unit": "dalam Jutaan Rupiah",
+        "gross_profit": "16.998.920",
+        "net_revenue": "57.845.448",
+        "net_profit": "4.195.398",
+        "inventories": "11.363.892",
+        "cash": "9.408.189",
+        "total_current_liabilities": "27.474.862",
+        "ebit": "6.195.399",
+        "total_assets": "97.061.632",
+        "total_equity": "51.966.751",
+        "total_non_current_liabilities": "17.620.019",
+        "total_liabilities": "45.094.881",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2019_IV": {
+        "pages": {
+            "Laba Rugi": [
+                8,
+                9
+            ],
+            "Posisi Keuangan": [
+                5,
+                6,
+                7
+            ],
+            "Jumlah saham": [
+                14,
+                15
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 4,
+        "year": "2019",
+        "unit": "dalam Jutaan Rupiah",
+        "gross_profit": "22.716.361",
+        "net_revenue": "76.592.955",
+        "net_profit": "5.902.729",
+        "inventories": "9.658.705",
+        "cash": "13.745.118",
+        "total_current_liabilities": "24.686.862",
+        "total_equity": "54.202.488",
+        "ebit": "8.749.397",
+        "total_assets": "96.198.559",
+        "total_non_current_liabilities": "17.309.209",
+        "total_liabilities": "41.996.071",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2020_I": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 1,
+        "year": "2020",
+        "unit": "dalam Jutaan Rupiah",
+        "inventories": "10.597.677",
+        "cash": "16.132.625",
+        "total_current_liabilities": "28.185.511",
+        "total_equity": "56.570.429",
+        "gross_profit": "6.282.600",
+        "net_revenue": "19.304.795",
+        "ebit": "2.458.571",
+        "net_profit": "1.805.109",
+        "total_assets": "102.662.235",
+        "total_non_current_liabilities": "17.906.295",
+        "total_liabilities": "46.091.806",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2020_II": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 2,
+        "year": "2020",
+        "unit": "dalam Jutaan Rupiah",
+        "gross_profit": "12.479.273",
+        "net_revenue": "39.384.531",
+        "net_profit": "3.464.298",
+        "inventories": "10.370.911",
+        "cash": "15.827.545",
+        "total_current_liabilities": "28.789.261",
+        "ebit": "4.959.991",
+        "total_assets": "103.395.472",
+        "total_equity": "57.339.733",
+        "total_non_current_liabilities": "17.266.478",
+        "total_liabilities": "46.055.739",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2020_III": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 3,
+        "year": "2020",
+        "unit": "dalam Jutaan Rupiah",
+        "gross_profit": "18.829.726",
+        "net_revenue": "58.775.946",
+        "net_profit": "4.729.034",
+        "inventories": "10.574.119",
+        "cash": "14.820.518",
+        "ebit": "6.749.422",
+        "total_assets": "161.531.863",
+        "total_equity": "75.274.131",
+        "total_current_liabilities": "28.367.905",
+        "total_non_current_liabilities": "57.889.827",
+        "total_liabilities": "86.257.732",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2020_IV": {
+        "pages": {
+            "Laba Rugi": [
+                8,
+                9
+            ],
+            "Posisi Keuangan": [
+                5,
+                6,
+                7
+            ],
+            "Jumlah saham": [
+                14,
+                15
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 4,
+        "year": "2020",
+        "unit": "dalam Jutaan Rupiah",
+        "gross_profit": "26.752.044",
+        "net_revenue": "8.780.426.500",
+        "net_profit": "8.752.066",
+        "inventories": "11.150.432",
+        "cash": "17.336.960",
+        "total_current_liabilities": "27.975.875",
+        "total_equity": "79.138.044",
+        "ebit": "12.426.334",
+        "total_assets": "8.780.426.500",
+        "total_non_current_liabilities": "56.022.597",
+        "total_liabilities": "83.998.472",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2021_I": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 1,
+        "year": "2021",
+        "unit": "dalam Jutaan Rupiah",
+        "inventories": "12.843.854",
+        "cash": "17.408.379",
+        "gross_profit": "8.528.377",
+        "net_revenue": "24.554.947",
+        "ebit": "3.488.896",
+        "net_profit": "2.625.991",
+        "total_assets": "169.576.208",
+        "total_equity": "81.928.715",
+        "total_current_liabilities": "30.180.562",
+        "total_non_current_liabilities": "57.466.931",
+        "total_liabilities": "87.647.493",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2021_II": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 2,
+        "year": "2021",
+        "unit": "dalam Jutaan Rupiah",
+        "gross_profit": "15.899.203",
+        "net_revenue": "47.292.669",
+        "net_profit": "5.041.463",
+        "inventories": "12.599.719",
+        "cash": "18.279.870",
+        "ebit": "6.688.319",
+        "total_assets": "169.391.705",
+        "total_equity": "83.673.095",
+        "total_current_liabilities": "40.765.970",
+        "total_non_current_liabilities": "44.952.640",
+        "total_liabilities": "85.718.610",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2021_III": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 3,
+        "year": "2021",
+        "unit": "dalam Jutaan Rupiah",
+        "inventories": "15.066.298",
+        "cash": "17.801.972",
+        "total_current_liabilities": "44.783.012",
+        "total_equity": "82.960.679",
+        "gross_profit": "24.058.208 ",
+        "net_revenue": "72.808.320",
+        "ebit": "10.553.063",
+        "net_profit": "8.001.384",
+        "total_assets": "172.127.169",
+        "total_non_current_liabilities": "44.383.478",
+        "total_liabilities": "89.166.490",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2021_IV": {
+        "pages": {
+            "Laba Rugi": [
+                8,
+                9
+            ],
+            "Posisi Keuangan": [
+                5,
+                6,
+                7
+            ],
+            "Jumlah saham": [
+                14,
+                15
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 4,
+        "year": "2021",
+        "unit": "dalam Jutaan Rupiah",
+        "gross_profit": "32.464.061",
+        "net_profit": "11.203.585",
+        "inventories": "12.683.836",
+        "cash": "29.478.126",
+        "total_equity": "86.632.111",
+        "net_revenue": "99.345.618",
+        "ebit": "14.456.085",
+        "total_assets": "179.356.193",
+        "total_current_liabilities": "40.403.404",
+        "total_non_current_liabilities": "52.320.678",
+        "total_liabilities": "92.724.082",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2022_I": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 1,
+        "year": "2022",
+        "unit": "dalam Jutaan Rupiah",
+        "inventories": "16.564.247",
+        "cash": "28.493.014",
+        "total_current_liabilities": "44.197.067",
+        "total_non_current_liabilities": "52.193.098",
+        "total_equity": "91.308.828",
+        "gross_profit": "9.040.855",
+        "net_revenue": "27.446.583",
+        "ebit": "4.214.974",
+        "net_profit": "3.303.388",
+        "total_assets": "187.698.993",
+        "total_liabilities": "96.390.165",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2022_II": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "year": "2022",
+        "unit": "dalam Jutaan Rupiah",
+        "quarter": 2,
+        "gross_profit": "16.303.497",
+        "net_revenue": "52.787.329",
+        "net_profit": "4.162.026",
+        "inventories": "16.787.803",
+        "cash": "24.794.446",
+        "ebit": "5.639.707",
+        "total_assets": "179.166.046",
+        "total_equity": "91.024.499",
+        "total_current_liabilities": "32.025.593",
+        "total_non_current_liabilities": "56.115.954",
+        "total_liabilities": "88.141.547",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2022_III": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                3,
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 3,
+        "year": "2022",
+        "unit": "dalam Jutaan Rupiah",
+        "net_revenue": "80.821.622",
+        "net_profit": "6.683.699",
+        "inventories": "18.444.010",
+        "cash": "26.492.369",
+        "gross_profit": "25.079.004",
+        "ebit": "9.063.149",
+        "total_assets": "183.743.995",
+        "total_equity": "90.929.707",
+        "total_current_liabilities": "36.915.973",
+        "total_non_current_liabilities": "55.898.315",
+        "total_liabilities": "92.814.288",
+        "number_of_shares": "8.780.426.500"
+    },
+    "INDF_2022_IV": {
+        "pages": {
+            "Laba Rugi": [
+                15,
+                16
+            ],
+            "Posisi Keuangan": [
+                12,
+                13,
+                14
+            ],
+            "Jumlah saham": [
+                21,
+                22
+            ]
+        },
+        "company_name": "PT Indofood Sukses Makmur Tbk",
+        "quarter": 4,
+        "year": "2022",
+        "unit": "dalam Jutaan Rupiah",
+        "inventories": "16.517.373",
+        "cash": "25.945.916",
+        "total_current_liabilities": "30.725.942",
+        "total_non_current_liabilities": "56.084.320",
+        "total_equity": "93.623.038",
+        "gross_profit": "33.971.679",
+        "net_revenue": "110.830.272",
+        "ebit": "12.318.765",
+        "net_profit": "9.192.569",
+        "total_assets": "180.433.300",
+        "total_liabilities": "86.810.262",
+        "number_of_shares": "8.780.426.500"
+    },
+    "ASII_2019_I": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 1,
+        "year": "2019",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "12,612",
+        "net_revenue": "59,607",
+        "ebit": "8,317",
+        "net_profit": "6,665",
+        "inventories": "25,863",
+        "cash": "30,079",
+        "total_equity": "180,554",
+        "total_current_liabilities": "116,127",
+        "total_non_current_liabilities": "60,435",
+        "total_liabilities": "176,562",
+        "total_assets": "357,116",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2019_II": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 2,
+        "year": "2019",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "24,468",
+        "net_revenue": "116,182",
+        "ebit": "15,696",
+        "net_profit": "12,301",
+        "inventories": "25,506",
+        "cash": "21,568",
+        "total_equity": "176,952",
+        "total_current_liabilities": "107,995",
+        "total_non_current_liabilities": "65,341",
+        "total_liabilities": "173,336",
+        "total_assets": "350,288",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2019_III": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 3,
+        "year": "2019",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "37,373",
+        "net_revenue": "177,044",
+        "ebit": "24,991",
+        "net_profit": "19,628",
+        "inventories": "26,242",
+        "cash": "25,752",
+        "total_equity": "180,830",
+        "total_current_liabilities": "109,353",
+        "total_non_current_liabilities": "67,940",
+        "total_liabilities": "177,293",
+        "total_assets": "358,123",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2019_IV": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 4,
+        "year": "2019",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "50,239",
+        "net_revenue": "237,166",
+        "ebit": "34,054",
+        "net_profit": "26,621",
+        "inventories": "24,287",
+        "cash": "24,330",
+        "total_equity": "186,763",
+        "total_current_liabilities": "99,962",
+        "total_non_current_liabilities": "65,233",
+        "total_liabilities": "165,195",
+        "total_assets": "351,958",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2020_I": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 1,
+        "year": "2020",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "12,087",
+        "net_revenue": "54,002",
+        "ebit": "7,267",
+        "net_profit": "5,687",
+        "inventories": "27,165",
+        "cash": "29,251",
+        "total_equity": "195,904",
+        "total_current_liabilities": "96,169",
+        "total_non_current_liabilities": "74,667",
+        "total_liabilities": "170,836",
+        "total_assets": "366,740",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2020_II": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 2,
+        "year": "2020",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "20,174",
+        "net_revenue": "89,795",
+        "ebit": "14,986",
+        "net_profit": "13,137",
+        "inventories": "22,408",
+        "cash": "42,124",
+        "total_equity": "191,657",
+        "total_current_liabilities": "90,469",
+        "total_non_current_liabilities": "61,548",
+        "total_liabilities": "152,017",
+        "total_assets": "343,674",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2020_III": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 3,
+        "year": "2020",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "29,307",
+        "net_revenue": "130,349",
+        "ebit": "18,851",
+        "net_profit": "16,233",
+        "inventories": "21,314",
+        "cash": "46,968",
+        "total_equity": "195,025",
+        "total_current_liabilities": "85,821",
+        "total_non_current_liabilities": "60,418",
+        "total_liabilities": "146,239",
+        "total_assets": "341,264",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2020_IV": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 4,
+        "year": "2020",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "38,558",
+        "net_revenue": "175,046",
+        "ebit": "21,741",
+        "net_profit": "18,571",
+        "inventories": "17,929",
+        "cash": "47,553",
+        "total_equity": "195,454",
+        "total_current_liabilities": "85,736",
+        "total_non_current_liabilities": "57,013",
+        "total_liabilities": "142,749",
+        "total_assets": "338,203",
+        "number_of_shares": "840.483.553.140 saham"
+    },
+    "ASII_2021_I": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 1,
+        "year": "2021",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "10,598",
+        "net_revenue": "51,700",
+        "ebit": "5,777",
+        "net_profit": "4,657",
+        "inventories": "17,119",
+        "cash": "56,575",
+        "total_equity": "202,334",
+        "total_current_liabilities": "99,194",
+        "total_non_current_liabilities": "50,450",
+        "total_liabilities": "149,644",
+        "total_assets": "351,978",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2021_II": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 2,
+        "year": "2021",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "22,836",
+        "net_revenue": "107,395",
+        "ebit": "13,991",
+        "net_profit": "11,143",
+        "inventories": "17,596",
+        "cash": "58,165",
+        "total_equity": "204,271",
+        "total_current_liabilities": "98,433",
+        "total_non_current_liabilities": "51,769",
+        "total_liabilities": "150,202",
+        "total_assets": "354,473",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2021_III": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 3,
+        "year": "2021",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "36,254",
+        "net_revenue": "167,402",
+        "ebit": "23,683",
+        "net_profit": "19,018",
+        "inventories": "19,474",
+        "cash": "60,538",
+        "total_equity": "209,556",
+        "total_current_liabilities": "100,711",
+        "total_non_current_liabilities": "51,952",
+        "total_liabilities": "152,663",
+        "total_assets": "362,219",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2021_IV": {
+        "pages": {
+            "Laba Rugi": [
+                6,
+                7
+            ],
+            "Posisi Keuangan": [
+                4,
+                5
+            ],
+            "Jumlah saham": [
+                12,
+                13
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 4,
+        "year": "2021",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "51,033",
+        "net_revenue": "233,485",
+        "ebit": "32,350",
+        "net_profit": "25,586",
+        "inventories": "21,815",
+        "cash": "63,947",
+        "total_equity": "215,615",
+        "total_current_liabilities": "103,778",
+        "total_non_current_liabilities": "47,918",
+        "total_liabilities": "151,696",
+        "total_assets": "367,311",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2022_I": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                9,
+                10
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 1,
+        "year": "2022",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "15,739",
+        "net_revenue": "71,871",
+        "ebit": "11,458",
+        "net_profit": "9,272",
+        "inventories": "23,332",
+        "cash": "67,255",
+        "total_equity": "225,328",
+        "total_current_liabilities": "110,138",
+        "total_non_current_liabilities": "47,717",
+        "total_liabilities": "157,855",
+        "total_assets": "383,183",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2022_II": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                9,
+                10
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 2,
+        "year": "2022",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "33,551",
+        "net_revenue": "143,692",
+        "ebit": "28,802",
+        "net_profit": "23,917",
+        "inventories": "25,406",
+        "cash": "68,234",
+        "total_equity": "232,083",
+        "total_current_liabilities": "113,996",
+        "total_non_current_liabilities": "46,444",
+        "total_liabilities": "160,440",
+        "total_assets": "392,523",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2022_III": {
+        "pages": {
+            "Laba Rugi": [
+                4,
+                5
+            ],
+            "Posisi Keuangan": [
+                2,
+                3
+            ],
+            "Jumlah saham": [
+                10,
+                11
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 3,
+        "year": "2022",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "51,279",
+        "net_revenue": "221,354",
+        "ebit": "39,470",
+        "net_profit": "32,012",
+        "inventories": "29,044",
+        "cash": "69,578",
+        "total_equity": "237,864",
+        "total_current_liabilities": "126,497",
+        "total_non_current_liabilities": "47,656",
+        "total_liabilities": "174,153",
+        "total_assets": "412,017",
+        "number_of_shares": "40.483.553.140 saham"
+    },
+    "ASII_2022_IV": {
+        "pages": {
+            "Laba Rugi": [
+                14,
+                15
+            ],
+            "Posisi Keuangan": [
+                12,
+                13
+            ],
+            "Jumlah saham": [
+                20,
+                21
+            ]
+        },
+        "company_name": "PT ASTRA INTERNATIONAL Tbk",
+        "quarter": 4,
+        "year": "2022",
+        "unit": "dalam miliaran Rupiah",
+        "gross_profit": "70,088",
+        "net_revenue": "301,379",
+        "ebit": "50,390",
+        "net_profit": "40,420",
+        "inventories": "32,323",
+        "cash": "61,295",
+        "total_equity": "243,720",
+        "total_current_liabilities": "119,198",
+        "total_non_current_liabilities": "50,379",
+        "total_liabilities": "169,577",
+        "total_assets": "413,297",
+        "number_of_shares": "40.483.553.140 saham"
+    }
+}

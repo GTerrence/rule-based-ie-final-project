@@ -1,0 +1,98 @@
+{
+    "info": {
+        "company_name": "PT(.|(\n))*?Tbk",
+        "tanggal": "3[01]( |(\n))*[(maret)(september)(juni)(desember)(march)(june)(september)(december)](.|(\n))*?(20)(1|2)[9012]",
+        "unit": "dalam.*rupiah"
+    },
+    "pages": {
+        "Laba Rugi": {
+            "table": true,
+            "keyword": [
+                "LAPORAN( |(\n))+LABA( |(\n))+RUGI",
+                "DAN( |(\n))+ENTITAS( |(\n))+ANAK"
+            ]
+        },
+        "Posisi Keuangan": {
+            "table": true,
+            "keyword": [
+                "LAPORAN( |(\n))+POSISI( |(\n))+KEUANGAN( |(\n))+KONSOLIDASIAN",
+                "DAN( |(\n))+ENTITAS( |(\n))+ANAK"
+                ]
+        },
+        "Jumlah saham": {
+            "table": false,
+            "keyword": "[Ii]nitial *[Pp]ublic *[Oo]ffering"
+        }
+    },
+    "data": {
+        "Laba Rugi": {
+            "gross_profit": {
+                "ind": [
+                    "laba bruto",
+                    "laba kotor"
+                ]
+            },
+            "net_revenue": {
+                "eng": [
+                    "net sales",
+                    "net revenue"
+                ]
+            },
+            "ebit": {
+                "ind": [
+                    "laba sebelum pajak penghasilan",
+                    "laba sebelum beban pajak"
+                ]
+            },
+            "net_profit": {
+                "ind": [
+                    "laba tahun berjalan",
+                    "laba periode berjalan"
+                ]
+            }
+        },
+        "Posisi Keuangan": {
+            "total_assets": {
+                "eng": [
+                    "total assets"
+                ]
+            },
+            "total_equity": {
+                "eng": [
+                    "total equity(?! attributable)"
+                ]
+            },
+            "total_current_liabilities": {
+                "eng": [
+                    "total current liabilities"
+                ]
+            },
+            "total_non_current_liabilities": {
+                "eng": [
+                    "total non-current liabilities"
+                ]
+            },
+            "total_liabilities": {
+                "eng": [
+                    "total liabilities(?! and equity)"
+                ]
+            },
+            "inventories": {
+                "ind": [
+                    "persediaan"
+                ]
+            },
+            "cash": {
+                "ind": [
+                    "kas dan setara kas"
+                ]
+            }
+        }
+    },
+    "saham": {
+        "indofood": "[0-9]{0,3}\\.?[0-9]{3}\\.[0-9]{3}\\.[0-9]{3}",
+        "astra": "[0-9]{0,3}\\.?[0-9]{3}\\.[0-9]{3}\\.[0-9]{3}( |(\n))+saham",
+        "ace": "[0-9]{0,3},?[0-9]{3},[0-9]{3},[0-9]{3}( |(\n))saham"
+    },
+    "Max Page": 25
+}
